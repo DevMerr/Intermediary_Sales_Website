@@ -1,0 +1,7 @@
+{
+   "tabnine.experimentalAutoImports": false,
+   "audioCues.lineHasError": "off",
+   "audioCues.diffLineDeleted": "auto",
+   "audioCues.diffLineInserted": "auto",
+   "audioCues.lineHasInlineSuggestion": "off"
+}
